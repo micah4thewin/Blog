@@ -24,9 +24,17 @@ if (condition) {
 
 ```javascript
 const elementById = document.getElementById('elementId');
+```
+```javascript
 const elementsByClass = document.getElementsByClassName('className');
+```
+```javascript
 const elementsByTag = document.getElementsByTagName('tagName');
+```
+```javascript
 const firstElementByQuery = document.querySelector('cssSelector');
+```
+```javascript
 const allElementsByQuery = document.querySelectorAll('cssSelector');
 ```
 
@@ -34,12 +42,26 @@ const allElementsByQuery = document.querySelectorAll('cssSelector');
 
 ```javascript
 element.textContent = 'New Text';
+```
+```javascript
 element.innerHTML = '<b>New HTML</b>';
+```
+```javascript
 element.style.property = 'value';
+```
+```javascript
 element.classList.add('newClass');
+```
+```javascript
 element.classList.remove('oldClass');
+```
+```javascript
 element.classList.toggle('toggleClass');
+```
+```javascript
 element.setAttribute('attributeName', 'attributeValue');
+```
+```javascript
 element.removeAttribute('attributeName');
 ```
 
@@ -47,8 +69,14 @@ element.removeAttribute('attributeName');
 
 ```javascript
 const newElement = document.createElement('tagName');
+```
+```javascript
 newElement.textContent = 'New Text';
+```
+```javascript
 newElement.classList.add('newClass');
+```
+```javascript
 parentElement.appendChild(newElement);
 ```
 
@@ -75,27 +103,33 @@ parentElement.replaceChild(newElement, oldElement);
 arr.forEach((element, index) => {
   // Code to execute for each element
 });
-
+```
+```javascript
 const newArray = arr.map((element, index) => {
   // Return the new element
 });
-
+```
+```javascript
 const filteredArray = arr.filter((element, index) => {
   // Return true if the element should be included
 });
-
+```
+```javascript
 const foundElement = arr.find((element, index) => {
   // Return true if this is the element you want to find
 });
-
+```
+```javascript
 const someTruthy = arr.some((element, index) => {
   // Return true if some elements meet the condition
 });
-
+```
+```javascript
 const allTruthy = arr.every((element, index) => {
   // Return true if all elements meet the condition
 });
-
+```
+```javascript
 const reducedValue = arr.reduce((accumulator, element, index) => {
   // Return the new accumulator value
 }, initialValue);
@@ -105,10 +139,20 @@ const reducedValue = arr.reduce((accumulator, element, index) => {
 
 ```javascript
 const stringLength = str.length;
+```
+```javascript
 const newString = str.replace('search', 'replacement');
+```
+```javascript
 const stringIndex = str.indexOf('search');
+```
+```javascript
 const stringLastIndex = str.lastIndexOf('search');
+```
+```javascript
 const substring = str.slice(startIndex, endIndex);
+```
+```javascript
 const splitArray = str.split('separator');
 ```
 
@@ -116,8 +160,14 @@ const splitArray = str.split('separator');
 
 ```javascript
 import moduleName from 'module';
+```
+```javascript
 import { namedExport } from 'module';
+```
+```javascript
 import { namedExport as alias } from 'module';
+```
+```javascript
 import * as moduleName from 'module';
 ```
 
@@ -188,7 +238,8 @@ async function asyncFunction() {
 element.addEventListener('eventType', (event) => {
   // Code to execute when the event occurs
 });
-
+```
+```javascript
 element.removeEventListener('eventType', eventListenerFunction);
 ```
 
@@ -228,6 +279,8 @@ sessionStorage.setItem('key', 'value');
 
 ```javascript
 const value = localStorage.getItem('key');
+```
+```javascript
 const value = sessionStorage.getItem('key');
 ```
 
@@ -235,6 +288,8 @@ const value = sessionStorage.getItem('key');
 
 ```javascript
 localStorage.removeItem('key');
+```
+```javascript
 sessionStorage.removeItem('key');
 ```
 
@@ -242,6 +297,8 @@ sessionStorage.removeItem('key');
 
 ```javascript
 localStorage.clear();
+```
+```javascript
 sessionStorage.clear();
 ```
 
@@ -294,13 +351,23 @@ const uniqueId = generateUniqueId();
 
 ```javascript
 const currentDate = new Date();
+```
+```javascript
 const specificDate = new Date('2022-01-01T00:00:00');
-
+```
+```javascript
 const year = currentDate.getFullYear();
+```
+```javascript
 const month = currentDate.getMonth() + 1;
+```
+```javascript
 const day = currentDate.getDate();
-
+```
+```javascript
 const formattedDate = currentDate.toISOString();
+```
+```javascript
 const formattedLocaleDate = currentDate.toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'long',

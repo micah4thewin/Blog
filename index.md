@@ -15,14 +15,14 @@ Whether you're here to learn about cooking, hiking, or programming, I hope you'l
 
 ## Latest Posts
 
-- [Introduction to GraphQL](./webdev/graphql.md)
-- [The Basics of HTML](./webdev/html.md)
-- [10 CSS Tips and Tricks](./webdev/css.md)
-- [Getting Started with JavaScript](./webdev/javascript.md)
-- [Mastering the Linux Terminal](./webdev/linuxterminal.md)
-- [Using Amplify for Web Development](./webdev/amplify.md)
-- [Getting Started with GitHub](./webdev/github.md)
-- [Using markdown for format](./webdev/markdown.md)
+- [GraphQL](./webdev/graphql.md)
+- [HTML](./webdev/html.md)
+- [CSS](./webdev/css.md)
+- [JavaScript](./webdev/javascript.md)
+- [Terminal](./webdev/linuxterminal.md)
+- [AWS Amplify](./webdev/amplify.md)
+- [Github Cli](./webdev/github.md)
+- [MarkDown](./webdev/markdown.md)
 
 ## About the Author
 
