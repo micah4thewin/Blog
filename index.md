@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Bios](./bios/)
+- [People](./people/)
 - [Food](./food/)
 - [Outdoors](./outdoors/)
 - [Web Development](./webdev/)
@@ -26,4 +26,4 @@ Whether you're here to learn about cooking, hiking, or programming, I hope you'l
 
 ## About the Author
 
-Hi, I'm [Your Name], and I'm the author of this blog. I'm a [describe yourself briefly] who enjoys [describe your interests and hobbies]. When I'm not [doing whatever you do], I can usually be found [doing something else interesting]. Thanks for reading, and I hope you enjoy the blog!
+Hi, I'm Micah Levason, and I'm the author of this blog.

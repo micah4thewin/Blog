@@ -1,4 +1,4 @@
-# JavaScript Cheatsheet
+# JavaScript
 
 ## DOMContentLoaded
 
@@ -494,4 +494,146 @@ export function myFunction() { /* Code to execute */ }
 
 ```javascript
 import { myVariable, myFunction } from './myModule.js';
+```
+
+```javascript
+const num = 4.9;
+const roundedNum = ~~num; // 4
+```
+
+## Short-circuit Evaluation
+
+```javascript
+const defaultValue = 'Default';
+const value = userInput || defaultValue;
+```
+
+## Exponentiation Operator (**)
+
+```javascript
+const square = 2 ** 2; // 4
+const cube = 2 ** 3; // 8
+```
+
+## Quick Array Type Check
+
+```javascript
+const isArray = (arr) => arr.constructor === Array;
+```
+
+## Remove Array Duplicates
+
+```javascript
+const uniqueArray = [...new Set(array)];
+```
+
+## Shorthand Object Properties
+
+```javascript
+const a = 1;
+const b = 2;
+const obj = { a, b }; // { a: 1, b: 2 }
+```
+
+## Shorthand Functions
+
+```javascript
+const myFunc = (a, b) => a + b;
+```
+
+## Optional Chaining
+
+```javascript
+const value = obj?.nestedObj?.property;
+```
+
+
+## Double tilde
+
+```javaScript
+const num = 4.9;
+const roundedNum = ~~num; // 4
+```
+
+## Nullish Coalescing Operator (??)'
+
+```javascript
+const result = value ?? defaultValue; // defaultValue if value is null or undefined
+```
+
+## Mouse Events
+
+```
+- click
+- dblclick
+- mousedown
+- mouseup
+- mousemove
+- mouseover
+- mouseout
+- contextmenu
+```
+
+## Keyboard Events
+
+```
+- keydown
+- keyup
+- keypress
+```
+
+## Form Events
+
+```
+- submit
+- change
+- focus
+- blur
+```
+
+## Window Events
+
+```
+- load
+- unload
+- beforeunload
+- error
+- resize
+- scroll
+```
+
+## Drag & Drop Events
+
+```
+- drag
+- dragstart
+- dragend
+- dragenter
+- dragover
+- dragleave
+- drop
+```
+
+## Touch Events
+
+```
+- touchstart
+- touchend
+- touchmove
+- touchcancel
+```
+
+## Pointer Events
+
+```
+- pointerover
+- pointerenter
+- pointerdown
+- pointermove
+- pointerup
+- pointercancel
+- pointerout
+- pointerleave
+- gotpointercapture
+- lostpointercapture
 ```
