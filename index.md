@@ -1,0 +1,29 @@
+# Welcome to My Blog
+
+## Table of Contents
+
+- [Bios](./bios/)
+- [Food](./food/)
+- [Outdoors](./outdoors/)
+- [Web Development](./webdev/)
+
+## About This Blog
+
+This blog is a collection of thoughts and ideas on a wide range of topics, including food, the outdoors, and web development. As an avid learner and curious mind, I enjoy exploring new ideas and sharing my experiences with others.
+
+Whether you're here to learn about cooking, hiking, or programming, I hope you'll find something useful or inspiring in these pages.
+
+## Latest Posts
+
+- [Introduction to GraphQL](./webdev/graphql.md)
+- [The Basics of HTML](./webdev/html.md)
+- [10 CSS Tips and Tricks](./webdev/css.md)
+- [Getting Started with JavaScript](./webdev/javascript.md)
+- [Mastering the Linux Terminal](./webdev/linuxterminal.md)
+- [Using Amplify for Web Development](./webdev/amplify.md)
+- [Getting Started with GitHub](./webdev/github.md)
+- [Using markdown for format](./webdev/markdown.md)
+
+## About the Author
+
+Hi, I'm [Your Name], and I'm the author of this blog. I'm a [describe yourself briefly] who enjoys [describe your interests and hobbies]. When I'm not [doing whatever you do], I can usually be found [doing something else interesting]. Thanks for reading, and I hope you enjoy the blog!
