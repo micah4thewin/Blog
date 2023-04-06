@@ -18,6 +18,26 @@ if (condition) {
 }
 ```
 
+## setTimeout
+
+```javascript
+setTimeout(() => {
+  // Code to execute after the specified delay
+}, delayInMilliseconds);
+```
+
+## Event Handling
+
+```javascript
+element.addEventListener('eventType', (event) => {
+  // Code to execute when the event occurs
+});
+```
+```javascript
+element.removeEventListener('eventType', eventListenerFunction);
+```
+
+
 ## DOM Manipulation
 
 ### Select Elements
@@ -232,17 +252,6 @@ async function asyncFunction() {
 }
 ```
 
-## Event Handling
-
-```javascript
-element.addEventListener('eventType', (event) => {
-  // Code to execute when the event occurs
-});
-```
-```javascript
-element.removeEventListener('eventType', eventListenerFunction);
-```
-
 ## Fetch API
 
 ```javascript
@@ -300,14 +309,6 @@ localStorage.clear();
 ```
 ```javascript
 sessionStorage.clear();
-```
-
-## setTimeout
-
-```javascript
-setTimeout(() => {
-  // Code to execute after the specified delay
-}, delayInMilliseconds);
 ```
 
 ## Class Example with Getters and Setters
