@@ -42,19 +42,15 @@
 ```
 
 # Code
-## Inline
-```
-`Inline code`
-```
-## Block
-```
-```
-code
-```
-```
-Block of code
-```
-```
+
+\`Code\`
+
+### Code Block
+
+\`\`\`
+Code block text goes here
+\`\`\`
+
 
 # Blockquotes
 ```
