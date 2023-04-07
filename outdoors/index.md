@@ -2,7 +2,13 @@
 
 ## Table of Contents
 
+### Hikes
+
 - [Ridge Trail: Sulphur Springs Loop, McDonald-Dunn Forest](./hikes/RidgeTrail_SulphurSpringsLoop_McDonaldDunnForest/index.md)
+
+### Skills
+
+- [Foraging in Oregon and Washington](./skills/foraging.md)
 
 ## About This Section
 
@@ -10,4 +16,10 @@ This section is all about the great outdoors, including hiking, camping, and oth
 
 ## Latest Posts
 
+### Hikes
+
 - [Ridge Trail: Sulphur Springs Loop, McDonald-Dunn Forest](./hikes/RidgeTrail_SulphurSpringsLoop_McDonaldDunnForest/index.md)
+
+### Skills
+
+- [Foraging in Oregon and Washington](./skills/foraging.md)
