@@ -1,21 +1,22 @@
 # Ridge Trail to Sulphur Springs Loop Trail, McDonald-Dunn Forest
 
-**All Trails Link:** https://www.alltrails.com/trail/us/oregon/ridge-trail-to-sulphur-springs-loop-trail
+## Hike Information
 
-**Length:** 5.8 miles
+- Date completed: April 6, 2023
+- Hiking companion: Casey (my dog)
+- All Trails Link: https://www.alltrails.com/trail/us/oregon/ridge-trail-to-sulphur-springs-loop-trail
+- Length: 5.8 miles
 
-## Description
+## Trail Description
 
-Discover this 3.5-mile loop trail near Corvallis, Oregon. Generally considered a moderately challenging route, it takes an average of 1 h 51 min to complete. This trail is great for birding, hiking, and mountain biking, and it's unlikely you'll encounter many other people while exploring. Dogs are welcome and may be off-leash in some areas.
+This 3.5-mile loop trail near Corvallis, Oregon is generally considered a moderately challenging route and takes an average of 1 hour and 51 minutes to complete. It's a great trail for birding, hiking, and mountain biking, and it's unlikely you'll encounter many other people while exploring. Dogs are welcome and may be off-leash in some areas.
 
-## Trailhead
+The trailhead is located at the Lewisburg Saddle Trailhead, which is at 2778 NW Sulphur Springs Rd, Corvallis, OR 97330.
 
-Lewisburg Saddle Trailhead, 2778 NW Sulphur Springs Rd, Corvallis, OR 97330
+## Trail Photos
 
-## Photos
-
-![Photo 1](./media/1.webp)
-![Photo 2](./media/2.webp)
-![Photo 3](./media/3.webp)
-![Photo 4](./media/4.webp)
-![Photo 5](./media/5.webp)
+![Trail Photo 1](./media/1.webp)
+![Trail Photo 2](./media/2.webp)
+![Trail Photo 3](./media/3.webp)
+![Trail Photo 4](./media/4.webp)
+![Trail Photo 5](./media/5.webp)
