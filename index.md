@@ -5,7 +5,7 @@
 - [People](./people/)
 - [Food](./food/)
 - [Outdoors](./outdoors/)
-- [Web Development](./webdev/)
+- [Web Development](./webdev/index.md)
 
 ## About This Blog
 
