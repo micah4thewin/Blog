@@ -1,31 +1,22 @@
-# Welcome to My Blog
+# Ridge Trail to Sulphur Springs Loop Trail, McDonald-Dunn Forest
 
-## Table of Contents
+## Hike Information
 
-- [Web Development](./webdev/index.md)
-- [Outdoors](./outdoors/index.md)
+- Date completed: April 6, 2023
+- Hiking companion: Casey (my dog)
+- All Trails Link: https://www.alltrails.com/trail/us/oregon/ridge-trail-to-sulphur-springs-loop-trail
+- Length: 5.8 miles
 
-## About This Blog
+## Trail Description
 
-This blog is a collection of thoughts and ideas on a wide range of topics, including food, the outdoors, and web development. As an avid learner and curious mind, I enjoy exploring new ideas and sharing my experiences with others.
+This 3.5-mile loop trail near Corvallis, Oregon is generally considered a moderately challenging route and takes an average of 1 hour and 51 minutes to complete. It's a great trail for birding, hiking, and mountain biking, and it's unlikely you'll encounter many other people while exploring. Dogs are welcome and may be off-leash in some areas.
 
-Whether you're here to learn about cooking, hiking, or programming, I hope you'll find something useful or inspiring in these pages.
+The trailhead is located at the Lewisburg Saddle Trailhead, which is at 2778 NW Sulphur Springs Rd, Corvallis, OR 97330.
 
-## Latest Posts
+## Trail Photos
 
-- [GraphQL](./webdev/graphql.md)
-- [HTML](./webdev/html.md)
-- [CSS](./webdev/css.md)
-- [JavaScript](./webdev/javascript.md)
-- [Terminal](./webdev/linuxterminal.md)
-- [AWS Amplify](./webdev/amplify.md)
-- [Github Cli](./webdev/github.md)
-- [MarkDown](./webdev/markdown.md)
-
-## About the Author
-
-Hi, I'm Micah Levason, and I'm the author of this blog.
-
-## Outdoors
-
-- [Hikes](./outdoors/hikes/index.md)
+![Trail Photo 1](./media/1.webp)
+![Trail Photo 2](./media/2.webp)
+![Trail Photo 3](./media/3.webp)
+![Trail Photo 4](./media/4.webp)
+![Trail Photo 5](./media/5.webp)

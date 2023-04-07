@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Hikes](./hikes/index.md)
+- [Ridge Trail: Sulphur Springs Loop, McDonald-Dunn Forest](./hikes/RidgeTrail_SulphurSpringsLoop_McDonaldDunnForest/index.md)
 
 ## About This Section
 
