@@ -2,10 +2,8 @@
 
 ## Table of Contents
 
-- [People](./people/)
-- [Food](./food/)
-- [Outdoors](./outdoors/)
 - [Web Development](./webdev/index.md)
+- [Outdoors](./outdoors/index.md)
 
 ## About This Blog
 
@@ -27,3 +25,7 @@ Whether you're here to learn about cooking, hiking, or programming, I hope you'l
 ## About the Author
 
 Hi, I'm Micah Levason, and I'm the author of this blog.
+
+## Outdoors
+
+- [Hikes](./outdoors/hikes/index.md)
