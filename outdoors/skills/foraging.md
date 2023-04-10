@@ -17,26 +17,6 @@ Before you start foraging, it's important to understand some safety guidelines:
 - Bring a field guide, knife, and a small shovel or trowel for digging up roots.
 - Document your finds with photos and notes to help you remember identification features and locations.
 
-
-# Foraging Food in Oregon and Washington (Salem, Oregon Area)
-
-Foraging for food can be a fun and rewarding outdoor activity. In the Pacific Northwest, especially in the Salem, Oregon area, there are a variety of wild edibles to be found. This tutorial will cover some of the most common plants and fungi you can forage in Oregon and Washington, along with tips, tricks, and nutritional information.
-
-## Safety First
-
-Before you start foraging, it's important to understand some safety guidelines:
-
-1. **Positive identification**: Be 100% sure of a plant or mushroom's identity before consuming it. Some species have poisonous look-alikes, so always double-check your findings with a trusted guidebook or expert.
-2. **Permission**: Make sure you have permission to forage on the land where you're collecting. Some public lands require permits for foraging, while others may prohibit it altogether.
-3. **Sustainability**: Practice sustainable foraging by taking only what you need and leaving enough for wildlife and the plant population to continue thriving.
-
-## Tips and Tricks
-
-- Forage in the early morning or late afternoon when plants are most hydrated.
-- Use a mesh bag when collecting mushrooms to help spread spores and promote growth.
-- Bring a field guide, knife, and a small shovel or trowel for digging up roots.
-- Document your finds with photos and notes to help you remember identification features and locations.
-
 ## Common Edible Plants
 
 ### Stinging Nettles (_Urtica dioica_)
@@ -237,4 +217,4 @@ When foraging, it's important to respect the environment, other foragers, and lo
 - Cook the nettles with an adult's help to remove their sting. Enjoy them as a cooked green or in soups and stews.
 - Eat the salmonberries and miner's lettuce fresh. You can also add the miner's lettuce to salads and sandwiches.
 
-Remember always to forage with an adult and only eat plants you're sure are safe. Happy foraging!`;
+Remember always to forage with an adult and only eat plants you're sure are safe. Happy foraging!
