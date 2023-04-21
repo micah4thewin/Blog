@@ -47,4 +47,4 @@ Linux Terminal Commands are used to perform various tasks in the Linux operating
 
 Markdown is a lightweight markup language used for formatting text. It allows developers to create easy-to-read and easy-to-write documentation and web pages.
 
-Thank you for visiting our Web Development Section. We hope you find ours and tutorials helpful in your journey to becoming a successful web developer.
+Thank you for visiting our Web Development Section. We hope you find our guides and tutorials helpful in your journey to becoming a successful web developer.

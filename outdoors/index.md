@@ -1,5 +1,7 @@
 # Welcome to the Outdoors
 
+Explore the outdoors through various hikes and learn essential skills for outdoor adventures and survival situations.
+
 ## Table of Contents
 
 ### Hikes
@@ -20,25 +22,6 @@
 - [Food Preservation Techniques](./skills/food-preservation.md)
 - [Basic Sewing and Clothing Repair](./skills/sewing-clothing-repair.md)
 
-### Medical
-
-- [Creating Saline Solution](./medical/createsaline.md)
-- [IV Fluids Administration](./medical/ivfluids.md)
-- [Burn Care](./medical/burns.md)
-- [Wound Care and Infection Prevention](./medical/wound-care.md)
-- [Fracture and Dislocation Management](./medical/fracture-dislocation.md)
-- [Herbal Remedies and Medicinal Plants](./medical/herbal-remedies.md)
-- [Splinting and Immobilization Techniques](./medical/splinting-immobilization.md)
-- [Poison and Venom Management](./medical/poison-venom.md)
-- [Basic Dental Care](./medical/dental-care.md)
-- [Mental Health and Stress Management](./medical/mental-health.md)
-- [Childbirth and Infant Care](./medical/childbirth-infant-care.md)
-- [Nutrition and Hydration](./medical/nutrition-hydration.md)
-- [CPR and Basic Life Support](./medical/cpr-basic-life-support.md)
-- [Hypothermia and Cold-Related Injuries](./medical/hypothermia-cold-injuries.md)
-- [Severe Stomach Issues](./medical/severe-stomach-issues.md)
-- [Severe Trauma: Initial Response](./medical/severe-trauma.md)
-
 ## About This Section
 
-This section is all about the great outdoors, including hiking, camping, and other outdoor activities, as well as essential skills and medical knowledge for survival in a post-apocalyptic scenario.
+This section is all about the great outdoors, including hiking, camping, and other outdoor activities, as well as essential skills for survival and self-sufficiency. Embark on adventures, learn new skills, and enjoy the beauty of nature.
