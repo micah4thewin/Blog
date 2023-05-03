@@ -1,6 +1,6 @@
 # Simple Engineering Solutions
 
-Welcome to the Simple Engineering Solutions section! This area focuses on practical and versatile engineering solutions that can be useful in various situations, especially during challenging times. These simple yet effective ideas cover a wide range of disciplines, offering valuable knowledge for self-reliance and resilience.
+Welcome to the Simple Engineering Solutions section! This area focuses on practical and versatile engineering solutions that can be useful in various situations, especially during challenging times or when resources are limited. These simple yet effective ideas cover a wide range of disciplines, offering valuable knowledge for self-reliance, resilience, and sustainable living.
 
 ## Table of Contents
 
@@ -35,6 +35,6 @@ Welcome to the Simple Engineering Solutions section! This area focuses on practi
 - [Wattle and Daub](./wattle_and_daub.md)
 - [Windbreaks](./windbreaks.md)
 
-Explore these simple engineering solutions to enhance your understanding of how these concepts can be applied in real-life situations. Whether you're interested in sustainable living, emergency preparedness, or just curious about the practical applications of engineering, this section is for you.
+Explore these simple engineering solutions to enhance your understanding of how these concepts can be applied in real-life situations. Whether you're interested in sustainable living, emergency preparedness, or just curious about the practical applications of engineering, this section is for you. Gain insights into innovative ideas that can make a positive impact on our environment and communities.
 
 Happy learning!
