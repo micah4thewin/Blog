@@ -10,6 +10,7 @@
 - [AWS Amplify CLI](./amplify.md)
 - [Linux Terminal Commands](./linuxterminal.md)
 - [Markdown](./markdown.md)
+- [Machine Learning](./mltensorflow.md)
 
 ## Introduction
 
