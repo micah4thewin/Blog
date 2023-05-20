@@ -5,7 +5,7 @@
 - [Web Development](./webdev/index.md)
 - [Outdoors](./outdoors/index.md)
 - [Engineering](./engineering/index.md)
-- [Do-It-Yourself](./engineering/simple_engineering_solutions/index.md)
+- [Do-It-Yourself](./DIY/index.md)
 - [Food & Recipes](./food/index.md)
 - [Medical](./medical/index.md)
 - [People](./people/index.md)
