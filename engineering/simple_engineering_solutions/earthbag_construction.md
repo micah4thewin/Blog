@@ -43,12 +43,6 @@ The following steps describe the basic process of building vertical earthbag wal
 8. Add roof and other elements: Depending on your design and needs, you can add a roof and other elements to your earthbag building. You can use conventional roofs (such as metal, tile, shingle) or natural roofs (such as thatch, green roof) depending on your budget and climate. You can also add doors, windows, floors, insulation, plumbing,
 electricity, ventilation, heating, cooling etc.
 
-## References
-
-[^1^][1]: Geiger O (2008) Step-by-step earthbag building [Online]. Available at https://www.instructables.com/Step-by-Step-Earthbag-Building/
-
-[^2^][2]: Wikipedia (2022) Earthbag construction [Online]. Available at https://en.wikipedia.org/wiki/Earthbag_construction
-
 ## Engineering Principles of Earthbag Construction
 
 Earthbag construction is based on some engineering principles that ensure its strength and stability. Some of these principles are:
