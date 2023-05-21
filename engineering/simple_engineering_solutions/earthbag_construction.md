@@ -43,30 +43,6 @@ The following steps describe the basic process of building vertical earthbag wal
 8. Add roof and other elements: Depending on your design and needs, you can add a roof and other elements to your earthbag building. You can use conventional roofs (such as metal, tile, shingle) or natural roofs (such as thatch, green roof) depending on your budget and climate. You can also add doors, windows, floors, insulation, plumbing,
 electricity, ventilation, heating, cooling etc.
 
-## Examples of Earthbag Buildings
-
-Here are some examples of earthbag buildings from around the world:
-
-![Earthbag dome house in Thailand](https://www.instructables.com/files/deriv/F0M/5W0F/GY1ZC9XO/F0M5W0FGY1ZC9XO.MEDIUM.jpg)
-
-Earthbag dome house in Thailand[^1^][1]
-
-![Earthbag school in Nepal](https://www.instructables.com/files/deriv/F4L/7J6N/GY1ZC9XQ/F4L7J6NGY1ZC9XQ.MEDIUM.jpg)
-
-Earthbag school in Nepal[^1^][1]
-
-![Earthbag emergency shelter in Haiti](https://www.instructables.com/files/deriv/F8N/2H3G/GY1ZC9XR/F8N2H3GGY1ZC9XR.MEDIUM.jpg)
-
-Earthbag emergency shelter in Haiti[^1^][1]
-
-![Earthbag home office in Colorado](https://www.instructables.com/files/deriv/F8S/3T0U/GY1ZC9XS/F8S3T0UGY1ZC9XS.MEDIUM.jpg)
-
-Earthbag home office in Colorado[^1^][1]
-
-![Earthship with earthbag walls in New Mexico](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Earthship_intern_01.jpg/1200px-Earthship_intern_01.jpg)
-
-Earthship with earthbag walls in New Mexico[^2^][2]
-
 ## References
 
 [^1^][1]: Geiger O (2008) Step-by-step earthbag building [Online]. Available at https://www.instructables.com/Step-by-Step-Earthbag-Building/
