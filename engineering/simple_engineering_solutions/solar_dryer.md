@@ -1,0 +1,1 @@
+**Target Audience:** Homeowners and hobbyists interested in using solar energy to dry agricultural products.

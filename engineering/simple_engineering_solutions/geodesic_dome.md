@@ -1,38 +1,38 @@
-## Introduction to Geodesic Domes <a name="introduction"></a>
+**Audience:** Amateur builders interested in constructing a geodesic dome, with no prior knowledge of the topic.
+**Objective:** Provide readers with the information and resources they need to construct a basic geodesic dome from scratch, while also familiarizing them with the various types of domes and how they are designed.
 
-A geodesic dome is a hemispherical thin-shell structure (lattice-shell) based on a geodesic polyhedron. It is an efficient, economical, and robust structure that encloses a maximum volume of space with minimal materials, making it a popular choice for green building and sustainable architecture.
+# Introduction to Geodesic Domes
+A geodesic dome is a type of structure made up of a network of triangles which are arranged to form a curved, spherical shape. Most often, these domes are used to create habitats or structures that are stronger and lighter than conventional buildings, and more energy-efficient than other structures. In this guide, we will take a look at the basics of geodesic dome construction and provide step-by-step instructions for creating a basic one.
 
-## History of Geodesic Domes <a name="history"></a>
+# Types of Geodesic Domes
+There are several types of geodesic domes, each with its own unique characteristics and advantages. The two main types of domes are:
+- **Frequency 1 Domes:** These domes are constructed using tiny triangles in a rhombic configuration. They are the lightest and most portable types of geodesic domes, and are typically used for small structures such as large tents.
+- **Frequency 2 Domes:** These domes use larger triangles in an icosahedral configuration. These domes are much stronger and more structurally sound than frequency 1 domes, and are better suited for larger structures such as buildings or housing.
 
-The term "geodesic" comes from geodesy, the science of measuring the Earth. The geodesic dome was popularized by the architect Buckminster Fuller in the mid-20th century, though similar designs can be found earlier.
+# Design Considerations
+When designing a geodesic dome, there are a few important factors to consider. These include: 
+- **Size:** The size of your geodesic dome will be determined by how many triangles make up the structure. Generally, the more triangles, the larger the dome.
+- **Material:** Depending on what you plan to use the dome for, you will need to select the appropriate materials. Common material choices for geodesic domes include wood, steel, and PVC.
+- **Cost:** Materials, labor, and equipment can all be factors when it comes to determining the cost of your geodesic dome.
 
-## Scientific and Engineering Concepts <a name="scientific-and-engineering-concepts"></a>
+# Tools and Materials
+To build a basic geodesic dome, you will need the following tools and materials: 
+- **Measuring tape** 
+- **Skill saw** 
+- **Drill and drill bits** 
+- **Hammer and nails** 
+- **Wood** 
+- **Steel or PVC pipe** 
+- **Masonry screws** 
 
-Geodesic domes work on the principle of doing "more with less". They maximize space while minimizing building materials and weight. The structure distributes stress evenly across all points, making it stable and resistant to external forces.
+# Step-by-Step Guide to Building a Geodesic Dome
+1. Estimate the size of your dome. To do this, you will need to calculate the number of triangles needed to form the structure. 
+2. Mark out the triangles on a piece of plywood. This will serve as your template for the rest of the construction.
+3. Cut your wood pieces according to the triangle template. 
+4. Connect your wood pieces together, using an appropriate combination of nails and masonry screws. 
+5. Join the wood pieces with steel or PVC pipe to create the network of triangles. 
+6. Secure the entire structure together using more screws or bolts.
+7. Paint your dome if desired.
 
-## Materials <a name="materials"></a>
-
-* **Struts:** These are the building blocks of the dome, usually made of wood, metal, or PVC.
-* **Connectors:** Specialized connectors or hubs are used to join the struts.
-* **Coverings:** Various materials can be used to cover the dome, including glass, plastic, fabrics, or conventional roofing materials.
-
-## Steps for Geodesic Dome Construction <a name="steps-for-geodesic-dome-construction"></a>
-
-1. **Planning:** Decide the size and location of your dome, and gather necessary materials.
-2. **Ground Preparation:** Clear and level the area where the dome will be built.
-3. **Assemble the Base:** Lay out and connect the struts to form the base of the dome.
-4. **Build the Dome:** Continue to connect struts, working your way up from the base to create the dome shape.
-5. **Install the Covering:** Once the dome structure is complete, install the covering of your choice.
-
-## Pro Tips <a name="pro-tips"></a>
-
-* When selecting your materials, consider the purpose of your dome, as different materials offer different benefits.
-* Plan your dome carefully, considering factors such as wind and snow loads.
-* Consider using a kit for your first dome. Many companies offer pre-made kits with all the materials and instructions you need.
-
-## Problems Solved by Geodesic Domes <a name="problems-solved-by-geodesic-domes"></a>
-
-* **Efficiency:** Geodesic domes are efficient enclosures, using less material to enclose a given space than other types of structure.
-* **Strength:** Domes are inherently strong structures, capable of withstanding high winds and heavy snow loads.
-* **Sustainability:** Due to their efficiency, domes are often used in sustainable and green building projects.
-
+# Conclusion
+Building a geodesic dome is a great way to create a sturdy, energy-efficient structure that is much lighter than a traditional building. While the process can be complicated and time consuming, with the right tools and materials, and this guide to help you along the way, you should be able to construct a basic geodesic dome with ease. Good luck!

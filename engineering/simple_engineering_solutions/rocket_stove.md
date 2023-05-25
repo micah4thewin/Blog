@@ -1,0 +1,1 @@
+**Audience:** Homeowners looking for an alternative stove or cooking technology that is both efficient and environmentally friendly.

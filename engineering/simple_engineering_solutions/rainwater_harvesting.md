@@ -1,0 +1,2 @@
+**Additional Notes:** Add a glossary of terms to the end of the guide for quick reference. 
+**Audience:** Homeowners and farmers looking to implement rainwater harvesting at their own homes or properties.
