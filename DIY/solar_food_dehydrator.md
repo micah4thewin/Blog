@@ -1,0 +1,1 @@
+**Intended Audience:** People interested in sustainable food storage solutions, environmentally conscious people looking to reduce their energy consumption, and DIYers interested in sustainable projects.

@@ -1,0 +1,3 @@
+**Target Audience:** People with an interest in fishing for the purpose of recreation, but who do not have the financial means to purchase store-bought tackle, lures, and other gear. 
+**Persona:** Mike is an avid outdoorsman in his 30s who enjoys fishing as a recreational activity. He does not have much spare funds to purchase store-bought tackle and lures, so he would like to learn how to craft and use homemade fishing gear. He is not a mechanically inclinced person, but has basic tool craftsmanship knowledge. 
+**Objective:** Create a comprehensive guide to homemade fishing gear with detailed step-by-step instructions that will equip readers such as Mike with the knowledge to craft and use their own homemade fishing equipment.
