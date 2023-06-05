@@ -1,4 +1,3 @@
-
 # Comprehensive Guide to Emergency Communications Devices
 
 Emergency communication devices –ranging from satellite phones to satellite beacons– are designed to help you safely and quickly call for help when you’re in a remote or dangerous area or situation.
@@ -31,14 +30,14 @@ Marine-based devices – such as marine radios and EPIRB beacons – are designe
 
 #### Benefits of Marine-Based Devices
 
-- Range of up to 100 miles 
+- Range of up to 100 miles [^1^][1]
 - Reduced risk of interference 
 - Can be used in water
 - Emergency alert capability
 
 #### Drawbacks of Marine-Based Devices
 
-- Longer transmission and reception time 
+- Longer transmission and reception time [^1^][1]
 - Not typically available for land-based communication 
 
 ### Satellite-Based Devices
@@ -49,12 +48,12 @@ Satellite-based devices include satellite phones, which use satellites to provid
 
 - Worldwide coverage 
 - Reliable, secure transmission 
-- Battery life lasts up to several days 
+- Battery life lasts up to several days [^2^][2]
 
 #### Drawbacks of Satellite-Based Devices
 
 - High cost 
-- Larger and heavier in size 
+- Larger and heavier in size [^2^][2]
 
 ## Choosing the Right Device for Your Needs 
 
