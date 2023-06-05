@@ -1,4 +1,3 @@
-
 # Bicycle Powered Water Pump: A Comprehensive Guide
 
 A bicycle powered water pump can be a great way to irrigate crops and gardens in remote communities and areas not connected to the public water system. It can also be used for small scale irrigation or other light tasks. This guide will take you through the basics of building a bicycle powered water pump and how it works. 
@@ -11,27 +10,125 @@ A bicycle powered water pump is a device used to pump water using the power gene
 
 In order to build a bicycle powered water pump, you will need the following materials:
 
-- Bicycle
-- Plywood
-- Tyres
-- Nuts & Bolts
-- Pipe Fittings 
-- PVC Pipe
-- Hose Clips
-- Pump
-- Couplings
-- Primer
-- PVC Glue 
+- **Bicycle**: The bicycle is the main component of the device that provides the power for pumping water. You can use any type of bicycle that has a crank shaft and pedals, but you may want to choose one that is sturdy and comfortable to ride.
+- **Plywood**: The plywood is used to make the base of the trailer that will hold the pump and the pipes. You will need a piece of plywood that is large enough to fit your pump and pipes, as well as two tyres.
+- **Tyres**: The tyres are used to attach the trailer to the bicycle and provide stability and mobility. You will need two tyres that are compatible with your bicycle and can fit on the plywood base.
+- **Nuts & Bolts**: The nuts and bolts are used to secure the tyres to the plywood base and the pipe fittings to the trailer. You will need enough nuts and bolts of the appropriate size and shape for your materials.
+- **Pipe Fittings**: The pipe fittings are used to connect the pipes to the trailer and the pump. You will need pipe fittings that match the diameter and shape of your pipes and pump, such as elbows, tees, couplings, etc.
+- **PVC Pipe**: The PVC pipe is used to transport water from the source to the pump and from the pump to the hose. You will need enough PVC pipe of the appropriate diameter and length for your project.
+- **Hose Clips**: The hose clips are used to attach the PVC pipe to the trailer and prevent it from moving or falling off. You will need enough hose clips of the appropriate size for your pipe.
+- **Pump**: The pump is the device that sucks up water from the source and pushes it through the hose. You will need a pump that can be attached to your crank shaft and has enough power and capacity for your needs.
+- **Couplings**: The couplings are used to connect
+the pump
+to
+the pipe fittings. You will need couplings that match
+the diameter and shape of your pump and pipe fittings.
+- **Primer**: The primer is used
+to prepare
+the pipes and couplings before gluing them with PVC glue. It helps create a stronger bond between
+the materials.
+- **PVC Glue**: The PVC glue is used
+to seal
+the pipes and couplings together. It prevents leaks and ensures
+a smooth flow of water.
 
 ## Steps for Building a Bicycle Powered Water Pump
 
-1. Attach the trailer to the bicycle. Measure and mark the middle of the plywood. Drill holes and insert the tyres. Secure the tyres to the plywood with the bolts and nuts.
+1. Attach
+the trailer
+to
+the bicycle. Measure and mark
+the middle of
+the plywood. Drill holes and insert
+the tyres. Secure
+the tyres
+to
+the plywood with
+the bolts and nuts.
 
-2. Connect the pipe fittings to the trailer. Measure the PVC pipe and cut it to size. Attach the PVC pipe to the trailer using hose clips. 
+    * Use a tape measure or a ruler
+to find
+the center point of
+your plywood base.
+    * Use a pencil or a marker
+to mark
+the point where you want
+to attach
+your tyres.
+    * Use a drill or a screwdriver
+to make holes in
+your plywood base where you marked.
+    * Insert your tyres into
+the holes and align them with your bicycle wheels.
+    * Use nuts and bolts
+to fasten your tyres onto your plywood base.
 
-3. Attach the pump to the trailer. Connect the couplings to the pipe fittings. 
+2. Connect
+the pipe fittings
+to
+the trailer. Measure
+the PVC pipe and cut it
+to size. Attach
+the PVC pipe
+to
+the trailer using hose clips.
 
-4. Apply primer to the pipes and couplings before gluing with PVC glue. Allow the glue to dry before using the bike powered water pump.
+    * Use pipe fittings such as elbows or tees 
+to create a path for your PVC pipe from your water source 
+to your pump 
+and from your pump 
+to your hose.
+    * Use nuts and bolts 
+to secure 
+your pipe fittings 
+to your trailer.
+    * Use a tape measure or a ruler 
+to measure 
+how much PVC pipe you need 
+for each section of your path.
+    * Use a hacksaw or a pipe cutter 
+to cut 
+your PVC pipe 
+to the required length.
+    * Use hose clips 
+to attach 
+your PVC pipe 
+to your trailer and pipe fittings.
+
+3. Attach
+the pump
+to
+the trailer. Connect
+the couplings
+to
+the pipe fittings.
+
+    * Use nuts and bolts 
+to secure 
+your pump 
+to your trailer.
+    * Use couplings 
+to connect 
+your pump 
+to your pipe fittings on both ends.
+
+4. Apply primer
+to
+the pipes and couplings before gluing with PVC glue. Allow
+the glue
+to dry before using
+the bike powered water pump.
+
+    * Use a brush or a cloth 
+to apply primer 
+to the ends of your pipes and couplings that will be glued together.
+    * Wait for a few minutes until the primer dries.
+    * Use a brush or a cloth 
+to apply PVC glue 
+to the same ends of your pipes and couplings.
+    * Quickly join the pipes and couplings together and twist them slightly to ensure a tight fit.
+    * Hold them in place for a few seconds until the glue sets.
+    * Wait for at least an hour until the glue cures completely before using your bike powered water pump.
 
 ## How does it Work?
 
@@ -42,4 +139,4 @@ The bicycle powered water pump utilizes energy generated from the cyclist pedali
 The main advantage of a bicycle powered water pump is that it can be used to irrigate land and pump water in remote or difficult to access areas without requiring electricity. Additionally, it is a cheap and simple solution requiring few materials and relatively little maintenance. 
 
 The main disadvantage is that regardless of the cyclist’s strength and speed, water pressure will remain the same. Additionally, the process is labor intensive and may experience strain from pedaling for extended periods of time.
-
+'
