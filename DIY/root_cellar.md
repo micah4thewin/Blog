@@ -5,7 +5,7 @@ A root cellar is a simple, inexpensive way to store root vegetables, fruit, and 
 In this guide, we will go over all the steps necessary to build your own root cellar and get it suitable for storing food.
 
 ### Step 1: Choosing the Location
-The most important part of building a root cellar is finding the right spot. This spot has to be away from direct sunlight, have several inches of soil cover, and be situated near a water source such as a well or cistern[^1^][1]. The space should also have ample room for shelving or crates to store the food items.
+The most important part of building a root cellar is finding the right spot. This spot has to be away from direct sunlight, have several inches of soil cover, and be situated near a water source such as a well or cistern[^1^][1][1]. The space should also have ample room for shelving or crates to store the food items.
 
 Ideally, the outside temperature will not dip below freezing in the winter as this can damage food stored in the cellar.
 
@@ -19,9 +19,9 @@ If you’re building the cellar outdoors, you’ll have to clear the site of any
 Once you’ve cleared the site, you need to level the ground. A level surface is essential for keeping the cellar airtight, so use a long board and a level to make sure the ground is even.
 
 ### Step 3: Building the Structure
-Now it’s time to construct the actual root cellar. The cellar should have a waterproof roof to keep out the elements, as well as a ground-level floor to help regulate the temperature inside. You can build the walls out of any material, but it’s best to construct a double-walled structure and fill the space in between the two walls with insulation[^2^][2].
+Now it’s time to construct the actual root cellar. The cellar should have a waterproof roof to keep out the elements, as well as a ground-level floor to help regulate the temperature inside. You can build the walls out of any material, but it’s best to construct a double-walled structure and fill the space in between the two walls with insulation[^2^][2][2].
 
-When it comes to the entrance of the cellar, you should make sure it has a ramp so that it’s easy for you to get in and out. You should also make sure the door is insulated and fits snugly to keep out drafts and moisture. 
+When it comes to the entrance of the cellar, you should make sure it has a ramp so that it’s easy for you to get in and out. You should also make sure the door is insulated and fits snugly to keep out drafts and moisture.
 
 ### Step 4: Sealing Off the Cellar
 Once you’ve built the structure, it’s time to seal it off so that
@@ -39,10 +39,10 @@ you need
 to start storing
 the food. Root vegetables such as potatoes,
 carrots,
-and onions should be stored in crates or baskets and placed at a consistent temperature[^3^][3].
+and onions should be stored in crates or baskets and placed at a consistent temperature[^3^][3][3].
 
 Fruits should be stored on shelves with powdered or crystallized sulfur
-to prevent them from rotting[^4^][4]. If you’re also planning on storing canned goods,
+to prevent them from rotting[^4^][4][4]. If you’re also planning on storing canned goods,
 make sure
 to store them in airtight containers so that they don’t spoil.
 
@@ -77,5 +77,12 @@ Building a root cellar is a simple yet effective way to extend
 the shelf life of your food. By following these steps,
 you can have your root cellar ready
 to store food items in no time and keep them fresh for months or even years.
+
+## References
+
+[1]: https://www.treehugger.com/build-a-root-cellar-3016868
+[2]: https://www.tractorsupply.com/tsc/cms/life-out-here/garden-home-land/garden-all/how-to-build-a-root-cellar-on-your-land
+[3]: https://www.wikihow.com/Build-an-Underground-Root-Cellar
+[4]: https://www.askaprepper.com/make-mini-root-cellar-backyard-10-one-hour/
 
 
