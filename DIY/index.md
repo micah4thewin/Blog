@@ -31,4 +31,5 @@ Welcome to our collection of survival skills and DIY projects! Below you'll find
 - [Smokehouse](smokehouse.md)
 - [Solar Food Dehydrator](solar_food_dehydrator.md)
 - [Solar Water Heater](solar_water_heater.md)
-- [Wood Gasifier Stove](wood_gasifier_stove.md)
+- [Wood Gasifier Stove](wood_gasifier_stove.md) 
+- [Activated Charcoal](activated_charcoal.md) 
